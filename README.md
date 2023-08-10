@@ -1,16 +1,15 @@
-### Hi there 👋
+### hewwo, este é meu perfil 🫀🩹
 
-<!--
-**bunnyvamp/bunnyvamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Meu nome é karen_
 
-Here are some ideas to get you started:
+- _estou estudando no alura_
+- _estou me desenvolvendo na linguagem JavaScript_
+- _utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 🐻
+
+karen.modesto@escola.pr.gov.br
+@bunnynnel
+
+
+![kisses](https://media.tenor.com/_tquorGd1aYAAAAC/blackpink-kpop.gi****)
