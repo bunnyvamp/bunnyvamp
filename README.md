@@ -5,7 +5,7 @@ _Meu nome é karen_
 - _estou estudando no alura_
 - _estou me desenvolvendo na linguagem JavaScript_
 - _utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos_
-- _ aluna em periodo integral no Jayme Canet_
+- _aluna em periodo integral no Jayme Canet_
 
 ### Você pode entrar em contato comigo 🐻
 
